@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jordan Dowell"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD candidate"
-  location         : "University of Central Florida"
+  bio              : "PhD candidate at University of Central Florida"
+  location         : #""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
