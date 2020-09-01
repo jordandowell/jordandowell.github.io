@@ -102,4 +102,4 @@ Service and Leadership
     *	Graduate Student Coordinator, University of Central Florida, Aug. 2017
     *	Initiated, organized, and funded the first student-led conference of Plants Beyond Limits at UCF with ~500 attendees, 20 speakers, and 15 submitted posters from graduate students and postdocs 
 
-* Currently signed in to 43 different slack teams
+
