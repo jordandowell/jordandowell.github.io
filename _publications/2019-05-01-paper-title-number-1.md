@@ -1,8 +1,8 @@
 ---
-title: "Genome-Wide Association Mapping of Floral Traits in Cultivated Sunflower (<i>Helianthus annuus</i>)"
+title: "(1) Genome-Wide Association Mapping of Floral Traits in Cultivated Sunflower (<i>Helianthus annuus</i>)"
 collection: publications
 permalink: /publication/2019-05-01-paper-title-number-1
-excerpt: 
+excerpt: 'Understanding the genetic architecture of floral traits is essential for crop improvement, and gives insight into the role of genetic constraints in shaping floral diversity. A diversity panel of 288 sunflower genotypes was phenotyped for a variety of morphological, phenological, and color traits in both a greenhouse and a field setting. Association mapping was performed using 5788 SNP markers using a mixed linear model approach'
 date: 2019-05-01
 venue: 'Journal of Heredity'
 paperurl: 'https://doi.org/10.1093/jhered/esz013'
