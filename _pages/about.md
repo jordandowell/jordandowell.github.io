@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jordan Dowell is a Ph.D. student working at the University of Central Florida on the evolutionary-ecology of biochemical diversity across the annual clade of <i>Helianthus</i>. Before moving to Florida, he received his M.S. in ecology and evolutionary biology from the University of Nevada, Las Vegas where his research quantified changes in plant interactions over gradients of water stress in the Mojave Desert. Currently, his research borders applied agriculture and basic science, leveraging resources supporting cultivated Helianthus annuus to ask questions concerning our current understanding of plant interactions at an evolutionary and ecological scale.
+Jordan Dowell is a Ph.D. candidate working at the University of Central Florida on the evolutionary-ecology of biochemical diversity across the annual clade of <i>Helianthus</i>. Before moving to Florida, he received his M.S. in ecology and evolutionary biology from the University of Nevada, Las Vegas where his research quantified changes in plant interactions over gradients of water stress in the Mojave Desert. Currently, his research borders applied agriculture and basic science, leveraging resources supporting cultivated <i>Helianthus annuus</i> to ask questions concerning our current understanding of plant interactions at an evolutionary and ecological scale.
 
 Research Interests
 ======
