@@ -2,7 +2,7 @@
 title: "Genome-Wide Association Mapping of Floral Traits in Cultivated Sunflower (<i>Helianthus annuus</i>)"
 collection: publications
 permalink: /publication/2019-05-01-paper-title-number-1
-abstract: 
+excerpt: 'blank'
 date: 2019-05-01
 venue: 'Journal of Heredity'
 paperurl: 'https://doi.org/10.1093/jhered/esz013'
