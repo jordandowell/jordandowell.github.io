@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+[Download My most recently updated CV here](http://jordandowell.github.io/files/Dowell_CV.pdf)
+
+
 Education
 ======
 
