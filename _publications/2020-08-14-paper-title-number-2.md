@@ -1,7 +1,7 @@
 ---
 title: "(2) Correlation in plant volatile metabolites: physiochemical properties as a proxy for enzymatic pathways and an alternative metric of biosynthetic constraint"
 collection: publications
-permalink: /publication/2019-05-01-paper-title-number-1
+permalink: /publication/2020-08-14-paper-title-number-2
 excerpt: 'The amount of unique variance explained by physiochemical properties, independent of their canonical relationships, provides a metric for evaluating the role of non-enzymatic and non-canonical reactions in constraining molecular diversity.'
 date: 2020-08-14
 venue: 'Chemoecology'
