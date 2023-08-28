@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-[Download My most recently updated CV here](http://jordandowell.github.io/files/Dowell_CV.pdf)
+[Download My most recently updated CV here](http://jordandowell.github.io/files/Dowell_CV_2023.pdf)
 
 
 Education
 ======
 
-* Ph.D in Integrative Biology, University of Central Florida, 2021 (expected)
+* Ph.D in Integrative Biology, University of Central Florida, 2021
 * M.S. in Ecology & Evolutionary Biology, University of Nevada, Las Vegas, 2019
 * B.S. in Ecology & Evolutionary Biology, University of Nevada, Las Vegas, 2014
 
