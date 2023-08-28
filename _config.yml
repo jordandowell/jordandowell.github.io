@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jordan Dowell"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD Candidate at the University of Central Florida"
-  location         : 
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Assistant Professor at the University of Central Florida"
+  location         : "Department of Biological Sciences"
+  employer         : "Louisiana State University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Jordan+Dowell"
   googlescholar    : "https://scholar.google.com/citations?user=O3DaTMsAAAAJ&hl=en&oi=sra"
-  email            : "jordan.dowell@ucf.edu"
+  email            : "jordan.dowell@lsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
