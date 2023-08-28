@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![alttext](https://jordandowell.github.io/images/PictureCollage.pdf)
+![figure](https://jordandowell.github.io/images/PictureCollage.pdf)
 
 Dr. Jordan Dowell (Louisiana State University) studies the evolutionary ecology of plant-plant chemical communication and the impacts of multifunctional traits on biotic interactions from single-cells to landscapes using various techniques, from metabolomic and genomic approaches to remote sensing and field-based studies.  
 
