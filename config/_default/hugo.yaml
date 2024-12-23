@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Dowell Research Group # Website name
-baseURL: 'https://jordandowell.github.io/' # Website URL
+baseURL: 'jordandowell.github.io' # Website URL
 
 ############################
 ## LANGUAGE
