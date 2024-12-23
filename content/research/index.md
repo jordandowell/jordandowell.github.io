@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: PictureCollage.pdf
             filters:
               brightness: 0.5
           position: center
