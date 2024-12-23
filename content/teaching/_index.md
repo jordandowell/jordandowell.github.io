@@ -1,5 +1,5 @@
 ---
-title: Upcoming Oppotunities to Join the Lab
+title: Course syllabi
 
 # Listing view
 view: compact
