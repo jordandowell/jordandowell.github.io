@@ -11,7 +11,7 @@ sections:
         Dowell
         Research Group
       image:
-        filename: PictureCollage.pdf
+        filename: PictureCollage.jpg
       text: |
         <br>
         
