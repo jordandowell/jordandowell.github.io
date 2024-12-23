@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jordan Dowell
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Jordan
+last_name: Dowell
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Biology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Louisiana State University
+    url: 'https://www.lsu.edu/science/biosci/index.php'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed metabolomcis, quantitative genetics, and evolutionary ecology.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Metabolomics
+  - Quantitative Genetics
+  - Evolutionary Ecology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Conservation and Integrative Biology
+      institution: University of Central Florida
+      year: 2021
+    - course: MS in Ecology and Evolutionary Biology
+      institution: University of Nevada, Las Vegas
+      year: 2019
+    - course: BSc in Ecology and Evolutionary Biology
+      institution: University of Nevada, Las Vegas
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Jordan Dowell studies the evolutionary ecology of plant-plant chemical communication and the impacts of multifunctional traits on biotic interactions from single-cells to landscapes using various techniques, from metabolomic and genomic approaches to remote sensing and field-based studies.
