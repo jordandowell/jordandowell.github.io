@@ -11,10 +11,7 @@ sections:
         **Dowell
         Research Group**
       text: |
-        <br>
-        
-        The **Dowell Research Group** focuses on understanding the evolution of chemical diversity and the effects of chemical diversity on organismal interactions across spatial and temporal scales. The lab is currently located in the Department of Biology at Louisiana State University and was founded in 2023.
-
+        The our group focuses on understanding the evolution of chemical diversity and the effects of chemical diversity on organismal interactions across spatial and temporal scales. The lab is currently located in the Department of Biology at Louisiana State University and was founded in 2023.
   - block: slider
     content:
       slides:
