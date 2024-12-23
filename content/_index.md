@@ -8,15 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Dowell
-        Research Group
-      image:
-        filename: PictureCollage.jpg
+        **Dowell
+        Research Group**
       text: |
         <br>
         
-        The **Dowell Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-        
+        The **Dowell Research Group** focuses on understanding the evolution of chemical diversity and the effects of chemical diversity on organismal interactions across spatial and temporal scales. The lab is currently located in the Department of Biology at Louisiana State University and was founded in 2023.
+
   - block: slider
     content:
       slides:
