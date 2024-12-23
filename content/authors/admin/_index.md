@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr. Jordan Dowell studies the evolutionary ecology of plant-plant chemical communication and the impacts of multifunctional traits on biotic interactions from single-cells to landscapes using various techniques, from metabolomic and genomic approaches to remote sensing and field-based studies.
