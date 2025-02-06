@@ -1,5 +1,5 @@
 ---
-title: Course syllabi
+title: Course Syllabi
 
 # Listing view
 view: compact
