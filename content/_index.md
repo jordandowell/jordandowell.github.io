@@ -28,12 +28,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Chemical Ecology & Comparative Biochemistry Lab
+        content: 'Established in Fall 2023'
         align: right
         background:
           image:
-            filename: PictureCollage.jpg
+            filename: F61D3311-D806-4CA3-B7B3-C22E79F10243_1_105_c.jpeg
             filters:
               brightness: 0.5
           position: center
