@@ -7,7 +7,7 @@ image:
 
 Biol 7800 Louisiana State University
 
-[Download the syllabus (PDF)](files/ChemoEcology2025_syllabus.pdf)
+[Download the syllabus (PDF)](Dowell_Graduate_ChemicalEcology syllabus 7800_Spring2025.pdf)
 
 <!--more-->
 
