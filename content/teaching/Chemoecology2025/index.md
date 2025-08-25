@@ -1,0 +1,12 @@
+---
+title: Chemical Ecology Spring 2025
+date: 2025-01-01
+image:
+  focal_point: 'top'
+---
+
+Biol 7800 Louisiana State University
+
+<!--more-->
+
+This course investigates the role of chemistry in mediating interactions among various organisms alongside developing practical analytical chemistry skills and intuition. We will discuss the diversity of species interactions and chemical compounds in terrestrial and aquatic systems and the methods used to detect those compounds. We will cover defensive and offensive chemistry mediating antagonistic interactions, the evolution of defenses, chemicals mediating mutualisms, competition, and sociality, and the physiology of chemical production and recognition. This course will include paper discussions of relevant recent literature and exposure to laboratory techniques for analysis of small molecules relevant to chemical ecology and comparative biochemistry. 
