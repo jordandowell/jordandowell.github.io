@@ -38,8 +38,7 @@ education:
       institution: Eastern Illinois University
       year: 2020
     - course: BSc Natural Resources and Environment 
-      institution: Universidad Nacional de Agricultura 
-      Honduras
+      institution: Universidad Nacional de Agricultura, Honduras
       year: 2016
 
 # Social/Academic Networking
