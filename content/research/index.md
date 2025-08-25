@@ -52,3 +52,13 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
+
+
+# Listing view
+view: compact
+
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
+---
