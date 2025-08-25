@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: F61D3311-D806-4CA3-B7B3-C22E79F10243_1_105_c.jpeg
             filters:
               brightness: 0.7
           position: center
@@ -80,7 +80,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: F61D3311-D806-4CA3-B7B3-C22E79F10243_1_105_c.jpeg
           filters:
             brightness: 1
           parallax: false
