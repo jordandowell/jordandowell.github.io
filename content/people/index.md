@@ -13,8 +13,10 @@ sections:
       user_groups:
           - Principal Investigators
           - Project Scientists
+          - Postdoctoral Fellows
           - PhD Candidates
           - Grad Students
+          - Postbaccalaureate Fellows
           - Administration
           - Visitors
           - Alumni
