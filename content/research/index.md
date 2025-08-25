@@ -45,22 +45,11 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '400px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
 
-# Course Syllabi
-
-See what we have going on!
-
-# Listing view
-view: compact
