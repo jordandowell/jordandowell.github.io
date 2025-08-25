@@ -24,9 +24,7 @@ organizations:
     url: 'https://www.ucdavis.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in plant immunity and its effects on pollinator attraction in wild sunflowers, 
-as well as the evolution of plant growth-defense trade-offs. I am also interested in developing 
-bioanalytical methods using chromatography and spectrometry. 
+bio: I am interested metabolomics and plant evolutionary ecology 
 
 interests:
   - Chemical Ecology
@@ -67,4 +65,7 @@ user_groups:
   - Grad Students
 ---
 
+ I am interested in plant immunity and its effects on pollinator attraction in wild sunflowers, 
+as well as the evolution of plant growth-defense trade-offs. I am also interested in developing 
+bioanalytical methods using chromatography and spectrometry. 
 
