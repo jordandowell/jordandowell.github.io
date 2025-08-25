@@ -68,3 +68,4 @@ user_groups:
   - Grad Students
 ---
 
+My research interests involve the evolution of host preference and growth-defense trade-offs in fungal plant pathogens.
