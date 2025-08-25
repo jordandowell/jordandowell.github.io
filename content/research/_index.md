@@ -1,5 +1,5 @@
 ---
-title: Course Syllabi
+title: Research Projects in the Lab
 
 # Listing view
 view: compact
