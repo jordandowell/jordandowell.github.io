@@ -52,14 +52,15 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 
-title: Course Syllabi
-
-# Listing view
-view: compact
-
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
+
+# Course Syllabi
+
 See what we have going on!
+
+# Listing view
+view: compact
