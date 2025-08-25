@@ -3,6 +3,9 @@ title: Chemical Ecology Spring 2025
 date: 2025-01-01
 image:
   focal_point: 'top'
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 ---
 
 Biol 7800 Louisiana State University
