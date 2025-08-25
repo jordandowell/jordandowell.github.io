@@ -8,7 +8,7 @@ last_name: Gambill
 
 # Username (this should match the folder name)
 authors:
-  - Justin2023
+  - JustinGambill2025
 
 # Is this the primary user of the site?
 superuser: false
@@ -66,4 +66,5 @@ email: 'justingambill3@gmail.com'
 user_groups:
   - Grad Students
 ---
+
 
