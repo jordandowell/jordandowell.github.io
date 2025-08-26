@@ -7,11 +7,9 @@ image:
 
 Biol 7800 Louisiana State University
 
-<<<<<<< HEAD
-[Download the syllabus (PDF)]('https://jordandowell.github.io/teaching/Chemoecology2025/ChemicalEcology_Spring2025.pdf')
-=======
+
 [Download the syllabus (PDF)](/teaching/Chemoecology2025/ChemicalEcology_Spring2025.pdf)
->>>>>>> 89d8e7db5029c02208b710ab4ad86efeae0e8067
+
 
 <!--more-->
 
