@@ -7,7 +7,7 @@ image:
 
 Biol 7800 Louisiana State University
 
-[Download the syllabus (PDF)](/ChemicalEcology_Spring2025.pdf)
+[Download the syllabus (PDF)](ChemicalEcology_Spring2025.pdf)
 
 <!--more-->
 
