@@ -52,7 +52,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: Thomasetal2023Deciphering.pdf
+url_pdf: jordandowell.github.io/content/publication/journal-articlecopy1/Thomasetal2023Deciphering.pdf
 url_code: 'https://www.mdpi.com/2218-273X/13/6/997'
 url_dataset: ''
 url_poster: ''
