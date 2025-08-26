@@ -3,19 +3,12 @@ title: Chemical Ecology Spring 2025
 date: 2025-01-01
 image:
   focal_point: 'top'
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://jordandowell.github.io/teaching/Chemoecology2025/ChemicalEcology_Spring2025.pdf'
-
-  
-  
 ---
 
 Biol 7800 Louisiana State University
 
 
-[Download the syllabus (PDF)](/teaching/Chemoecology2025/ChemicalEcology_Spring2025.pdf)
+[Download the syllabus (PDF)](/teaching/chemoecology2025/ChemicalEcology_Spring2025.pdf)
 
 
 <!--more-->
