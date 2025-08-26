@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Biol 7800 Louisiana State University
+Biol 3060 & 3060L Louisiana State University
 
 [Download the syllabus (PDF)](Dowell_BIOL3060_PlantPhys_Fall2025.pdf)
 
