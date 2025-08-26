@@ -7,7 +7,7 @@ image:
 
 Biol 3060 & 3060L Louisiana State University
 
-[Download the syllabus (PDF)](jordandowell.github.io/teaching/PlantPhys2024/Dowell_BIOL3060_PlantPhys_Fall2024.pdf)
+[Download the syllabus (PDF)](/teaching/PlantPhys2024/Dowell_BIOL3060_PlantPhys_Fall2024.pdf)
 
 
 <!--more-->
