@@ -1,5 +1,5 @@
 ---
-title: The Leaf Economic Spectrum: Linking Traits, Chemistry, and Evolution
+title: "The Leaf Economic Spectrum: Linking Traits, Chemistry, and Evolution"
 date: 2025-08-01
 image:
   focal_point: 'top'
