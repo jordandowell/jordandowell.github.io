@@ -15,8 +15,9 @@ sections:
           - Project Scientists
           - Postdoctoral Fellows
           - PhD Candidates
-          - Grad Students
+          - Graduate Students
           - Postbaccalaureate Fellows
+          - Undergraduate Researchers
           - Administration
           - Visitors
           - Alumni
