@@ -65,7 +65,7 @@ email: 'lori.pradhan@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - PhD Candidate
 ---
 
 My research interests involve the evolution of host preference and growth-defense trade-offs in fungal plant pathogens.

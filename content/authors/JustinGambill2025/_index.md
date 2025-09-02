@@ -62,7 +62,7 @@ email: 'justingambill3@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - PhD Candidate
 ---
 
  I am interested in plant immunity and its effects on pollinator attraction in wild sunflowers, 

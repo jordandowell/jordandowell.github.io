@@ -61,7 +61,7 @@ email: 'madrigal.melanie007@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - PhD Candidate
 ---
 
 Melanie is a PhD student in the Dowell Lab. Her research focuses on how host-pathogen interactions shape necrotrophic fungal resistance mechanisms and how plant specialized metabolites can be used for novel biocontrol strategies. 

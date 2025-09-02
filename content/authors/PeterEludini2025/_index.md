@@ -71,7 +71,7 @@ email: 'EludiniPeterOlufemi@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - PhD Candidate
 ---
 
 Peter is a biological scientist broadly interested in ecology, evolution, and environmental biology. He is investigating Botrytis cinerea (gray mold) stress-induced plant communication in Sunflower (Helianthus) conspecifics.

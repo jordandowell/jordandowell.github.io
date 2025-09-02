@@ -70,7 +70,7 @@ email: 'ulisareyes10@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - PhD Candidate
 ---
 
 My research interest also include examining how land management, domestication, and phylogenetic relationships influence these communities across different ecosystems.
