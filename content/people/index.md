@@ -16,7 +16,7 @@ sections:
           - Postdoctoral Fellows
           - PhD Candidates
           - Graduate Students
-          - Postbaccalaureate Fellows
+          - Post baccalaureate Fellows
           - Undergraduate Researchers
           - Administration
           - Visitors
