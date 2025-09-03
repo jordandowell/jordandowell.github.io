@@ -1,5 +1,5 @@
 ---
-title: "Genome-Wide Association Mapping of Floral Traits in Cultivated Sunflower (*Helianthus annuus*)"
+title: "Genome-Wide Association Mapping of Floral Traits in Cultivated Sunflower (Helianthus annuus)"
 authors:
 - admin
 - Erin Reynolds
