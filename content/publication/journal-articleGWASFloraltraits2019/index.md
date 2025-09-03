@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://jordandowell.github.io/publication/journal-article_GWASFloraltraits2019/Dowell2019FloralGWAS.pdf'
+url_pdf: 'https://jordandowell.github.io/publication/journal-articleGWASFloraltraits2019/Dowell2019FloralGWAS.pdf'
 url_code: 'https://academic.oup.com/jhered/article/110/3/275/5371358'
 url_dataset: ''
 url_poster: ''
