@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.lsu.edu/science/biosci/index.php'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed metabolomcis, quantitative genetics, and evolutionary ecology.
+bio: My research interests include metabolomics, quantitative genetics, and evolutionary ecology.
 
 interests:
   - Metabolomics

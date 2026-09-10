@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lori.pradhan@gmail.com'
+    link: 'mailto:lori.pradhan@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://bsky.app/profile/lpradhan.bsky.social

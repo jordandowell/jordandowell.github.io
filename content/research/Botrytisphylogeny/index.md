@@ -1,17 +1,37 @@
 ---
-title: "Diversification and Host Specialization in the Botrytis Genus"
+related_publications:
+  - page: "/publication/hyphy-fungal-networks-2025"
+    relevance: "Provides tools for quantifying fungal growth and network morphology, helping connect genetic variation with measurable pathogen traits."
+  - page: "/publication/journal-articlecopy1"
+    relevance: "Provides broader context on chemical signaling in plant–microbe interactions."
+weight: 3
+short_title: "Fungal ecophysiology & quantitative genetics"
+summary: "We link genetic diversity to pathogen traits across scales, combining fungal ecophysiology, quantitative genetics, and phylogenomics."
+title: "Fungal Ecophysiology & Quantitative Genetics"
 date: 2025-08-01
 image:
+  alt: "Botrytis evolutionary tree showing associated plant families and infected plant tissues."
   focal_point: 'top'
+
+gallery: [{"src": "media/lab-life/culture-tray.webp", "category": "At the bench", "caption": "A busy day of culture preparation, May 2025.", "alt": "A tray of culture containers beneath laboratory pipettes."}]
 ---
 
+How does genetic diversity translate into differences in the way fungal pathogens grow, acquire resources, tolerate stress, and interact with their hosts? Our lab combines **fungal ecophysiology, quantitative genetics, and phylogenomics** to connect genetic variation with pathogen traits—from differences among isolates to patterns across species and evolutionary lineages.
 
-<!--more-->
+## From genetic variation to pathogen traits
 
-The genus Botrytis represents one of the most economically important groups of plant-pathogenic fungi, notorious for causing post-harvest losses in agricultural and horticultural systems. This genus contains over 30 recognized species, spanning a remarkable spectrum of host interactions: the generalist B. cinerea infects more than 1,400 species across 600 genera, while specialists like B. tulipae exhibit a narrow focus on hosts within the genus Tulipa. Recent phylogenetic analyses reveal that Botrytis species cluster into two main clades, generalists on eudicot hosts and specialists on monocot hosts.
+Using *Botrytis* as a central study system, we investigate variation in growth, fungal network morphology, nutrient use, metabolism, and responses to plant chemical defenses. These traits help us ask how pathogens function in different environments and how that variation relates to infection and host use.
 
-Despite their prominence, the drivers of diversification within Botrytis remain poorly understood. Why do some species evolve toward extreme host generalism, while others become tightly specialized? What traits underlie these divergent strategies? Although Botrytis species deploy a variety of specialized metabolites and effector proteins during infection, most remain uncharacterized across the genus. This knowledge gap presents an opportunity to correlate evolutionary relationships with metabolomic diversity, shedding light on the biochemical innovations that shaped host range.
+Quantitative genetics provides a framework for asking how much trait variation is associated with genetic differences, how traits covary, and how their expression depends on environmental conditions. We aim to connect genomic variation with measurable phenotypes and identify the genetic basis of ecologically important pathogen traits.
 
-Equally uncertain is the role of primary metabolic traits—such as growth rate and nutrient acquisition—in determining host preference. Do faster-growing lineages correlate with broader host ranges, or do nutrient assimilation strategies underpin specialization? Addressing these questions requires integrated comparisons of both primary and specialized metabolism, alongside phylogenetic frameworks.
+## Fungal physiology in an ecological context
 
-My group applies phylogenomic approaches to unravel these macroevolutionary patterns of host diversification. By connecting genomic variation, metabolomic traits, and host preference, we aim to clarify how the Botrytis lineage radiated into one of the most impactful genera of plant pathogens. This work creates fertile ground for collaboration across evolutionary biology, metabolomics, and plant pathology, offering new perspectives on the ecological and evolutionary dynamics of host–pathogen interactions.
+A pathogen’s performance depends on both its genetic background and the environment it encounters. We ask how nutrient availability, host chemistry, and other environmental conditions influence fungal growth and physiology—and whether different genotypes respond in similar or contrasting ways.
+
+By integrating physiological measurements, image-based analyses of fungal growth, and chemical profiles, we work toward understanding the relationships and trade-offs among traits. For example, do differences in resource use or tolerance of plant metabolites help explain variation in pathogen performance across hosts?
+
+## Connecting scales with phylogenomics
+
+Phylogenomics places these trait comparisons in an evolutionary framework. Comparing isolates, species, and lineages allows us to ask whether genetic–trait relationships observed within species also help explain broader patterns of pathogen diversity, host range, and specialization.
+
+Our goal is to link **genetic diversity to pathogen function across scales**: from the genetic basis of individual traits, through whole-organism physiology, to ecological interactions and evolutionary differences among lineages. This creates opportunities for projects that bring together genetics, fungal biology, plant pathology, metabolomics, and comparative methods.

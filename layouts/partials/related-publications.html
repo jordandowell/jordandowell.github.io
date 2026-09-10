@@ -1,0 +1,16 @@
+{{ with .Params.related_publications }}
+<section class="related-publications" aria-labelledby="related-publications-title">
+  <h2 id="related-publications-title">Related publications</h2>
+  {{ range . }}
+    {{ $reference := . }}
+    {{ with site.GetPage .page }}
+      <div class="related-paper">
+        <p class="publication-relevance">{{ $reference.relevance }}</p>
+        {{ partial "publication.html" . }}
+      </div>
+    {{ else }}
+      {{ errorf "Research publication reference does not resolve: %s" .page }}
+    {{ end }}
+  {{ end }}
+</section>
+{{ end }}

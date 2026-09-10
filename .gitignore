@@ -6,3 +6,7 @@
 public/
 assets/jsconfig.json
 .Rproj.user
+
+# Local development tools and generated caches
+/work/
+.hugo_build.lock

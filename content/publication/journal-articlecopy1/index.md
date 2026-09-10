@@ -1,4 +1,13 @@
 ---
+figure:
+  file: signaling-figure.jpg
+  alt: Diagram of direct chemical signaling and indirect plant-mediated interactions among plant-associated microbes, herbivores, pollinators, predators, and parasitoids.
+  caption: Chemical signals connect microbes and insects across roots, leaves, flowers, and fruits. Solid arrows show direct interactions; dashed arrows show interactions mediated by plants.
+  credit: Thomas et al. (2023), Figure 2
+  source: https://doi.org/10.3390/biom13060997
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
+preprint: false
 title: "Deciphering Plant-Insect-Microorganism Signals for Sustainable Crop Production"
 authors:
 - Gareth Thomas
@@ -45,26 +54,24 @@ abstract: Agricultural crop productivity relies on the application of chemical p
 # Summary. An optional shortened abstract.
 summary: We highlight future research priorities to be considered for semiochemicals to be credible alternatives to the application of chemical pesticides.
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://jordandowell.github.io/publication/journal-articlecopy1/Thomasetal2023Deciphering.pdf'
-url_code: 'https://www.mdpi.com/2218-273X/13/6/997'
+url_pdf: 'Thomasetal2023Deciphering.pdf'
+url_source:  'https://www.mdpi.com/2218-273X/13/6/997'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -80,6 +87,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 

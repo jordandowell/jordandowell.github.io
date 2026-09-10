@@ -24,7 +24,7 @@ organizations:
     url: 'https://www.ucdavis.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested metabolomics and plant evolutionary ecology 
+bio: I am interested in metabolomics and plant evolutionary ecology
 
 interests:
   - Chemical Ecology
@@ -48,7 +48,7 @@ social:
     link: 'mailto:justingambill3@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://blsk.app/profile/justingambill.bsky.social
+    link: https://bsky.app/profile/justingambill.bsky.social
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -1,11 +1,5 @@
 ---
-title: Latest News
-
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: News
+description: Updates from the Dowell Research Group.
+empty_message: Lab updates will appear here. In the meantime, explore our research and meet the team.
 ---

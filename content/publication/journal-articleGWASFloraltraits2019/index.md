@@ -1,4 +1,5 @@
 ---
+preprint: false
 title: "Genome-Wide Association Mapping of Floral Traits in Cultivated Sunflower (Helianthus annuus)"
 authors:
 - admin
@@ -35,26 +36,24 @@ abstract: Floral morphology and pigmentation are both charismatic and economical
 # Summary. An optional shortened abstract.
 summary: Floral morphology and pigmentation in sunflower show strong associations with both pollinator efficiency and seed yield, and our genome-wide association study of 288 genotypes identified dozens of loci linked to these traits across multiple environments. Results highlight that floral trait expression is highly plastic, with distinct genetic associations emerging in greenhouse versus field conditions, underscoring the role of environment and domestication history in shaping floral diversity.
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://jordandowell.github.io/publication/journal-articleGWASFloraltraits2019/Dowell2019FloralGWAS.pdf'
-url_code: 'https://academic.oup.com/jhered/article/110/3/275/5371358'
+url_pdf: 'Dowell2019FloralGWAS.pdf'
+url_source:  'https://academic.oup.com/jhered/article/110/3/275/5371358'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -70,6 +69,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
