@@ -14,7 +14,7 @@ We welcome inquiries from prospective M.S. and Ph.D. students interested in chem
 
 Potential directions include understanding how plants balance growth and chemical defense, identifying the genetic basis of fungal responses to plant metabolites, and investigating why some fungal pathogens specialize on a few hosts while others infect many. Students interested in developing analytical methods or integrating chemical, physiological, and genomic data can also find strong connections with the lab's work.
 
-Graduate study is available through LSU’s [Biochemistry](https://www.lsu.edu/science/biosci/graduateprogram/biochemistry.php) and [Biological Sciences](https://www.lsu.edu/science/biosci/graduateprogram/biosci.php) programs. Before applying, please [contact Jordan](mailto:jdowell@lsu.edu) to discuss your research interests, potential projects, program fit, and current opportunities. Include a CV or résumé, a brief description of your research interests, and relevant coursework or research experience. Please ask about available positions and funding when you get in touch.
+Graduate study is available through LSU’s [Biochemistry](https://www.lsu.edu/science/biosci/programs/graduate/biochemistry.php) and [Biological Sciences](https://www.lsu.edu/science/biosci/programs/graduate/biological-sciences.php) programs. Before applying, please [contact Jordan](mailto:jdowell@lsu.edu) to discuss your research interests, potential projects, program fit, and current opportunities. Include a CV or résumé, a brief description of your research interests, and relevant coursework or research experience. Please ask about available positions and funding when you get in touch.
 
 ### Reading together
 
