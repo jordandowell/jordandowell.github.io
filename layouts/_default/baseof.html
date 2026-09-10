@@ -11,7 +11,7 @@
 {{ range .AlternativeOutputFormats }}{{ if eq .Name "RSS" }}<link rel="alternate" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ site.Title }}">{{ end }}{{ end }}
 </head><body>
 <a class="skip" href="#main">Skip to content</a>
-<div class="institution"><div class="wrap">Louisiana State University <span>Department of Biological Sciences</span></div></div>
+<div class="institution"><div class="wrap"><a href="https://www.lsu.edu/">Louisiana State University</a> <span><a href="https://www.lsu.edu/science/biosci/index.php">Department of Biological Sciences</a></span></div></div>
 <header class="site-header"><div class="wrap nav-row"><a class="brand" href="{{ "/" | relURL }}">{{ with resources.Get "media/icon.png" }}{{ $logo := .Resize "96x96 webp" }}<img class="brand-icon" src="{{ $logo.RelPermalink }}" width="48" height="48" alt="">{{ end }}Dowell<span>Research Group</span></a>
 <button class="menu-toggle" aria-expanded="false" aria-controls="main-nav" hidden>Menu</button>
 <nav id="main-nav" aria-label="Main navigation">{{ $page := . }}{{ range site.Menus.main }}<a href="{{ .URL | relURL }}"{{ if hasPrefix $page.RelPermalink (.URL | relURL) }} aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}<a href="{{ "/search/" | relURL }}" aria-label="Search the site">Search</a></nav></div></header>

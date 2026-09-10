@@ -11,11 +11,12 @@ superuser: true
 
 # Role/position
 role: Assistant Professor of Biology
+faculty_url: https://www.lsu.edu/science/biosci/faculty-and-staff/faculty-pages/dowell.php
 
 # Organizations/Affiliations
 organizations:
   - name: Louisiana State University
-    url: 'https://www.lsu.edu/science/biosci/index.php'
+    url: 'https://www.lsu.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include metabolomics, quantitative genetics, and evolutionary ecology.
