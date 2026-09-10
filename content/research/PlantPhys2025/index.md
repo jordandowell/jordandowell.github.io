@@ -11,9 +11,9 @@ related_publications:
   - page: "/publication/hplc-dad-metabolomics-2025"
     relevance: "Provides a method for comparing chemical diversity across plant samples."
 weight: 1
-short_title: "Plant traits & evolution"
-summary: "We connect leaf chemistry, nutrition, and physiology to understand how plants balance growth and defense across evolutionary lineages."
-title: "The Leaf Economic Spectrum: Linking Traits, Chemistry, and Evolution"
+short_title: "Macroevolution of plant chemodiversity"
+summary: "Across species and evolutionary lineages, we connect leaf chemistry, nutrition, and physiology to understand the evolution of growth and defense."
+title: "Macroevolution of plant chemodiversity"
 date: 2025-08-01
 image:
   alt: "Diagram connecting plant evolutionary relationships, geography, leaf mineral nutrition, and chemical traits."
@@ -32,3 +32,5 @@ My group is tackling this challenge by combining untargeted metabolomics, leaf m
 Our primary system leverages a large-scale common garden at the Arnold Arboretum (Harvard University), spanning 16 genera of temperate woody plants with at least 20 species per genus. This unique framework provides an unprecedented opportunity to examine the macroevolution of the LES, testing how well it predicts variation in growth–defense trade-offs across diverse lineages. Using this framework, we also examine the LES in a wide variety of herbaceous plants, such as Sunflower. The project is designed with ample flexibility to expand into the genomic underpinnings of trait integration and the roles of biotic stress in shaping evolutionary strategies.
 
 By merging ecophysiology, chemistry, and evolutionary biology, we aim to transform the LES from a trait spectrum into a dynamic, multi-layered model of plant function and adaptation as a framework with the power to unify collaborators across physiology, ecology, genomics, and metabolomics.
+
+Our complementary [plant ecophysiology and chemical diversity theme](/research/plant-ecophysiology/) examines these questions within and among populations, connecting population-level variation with the broader evolutionary patterns studied here.

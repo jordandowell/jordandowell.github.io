@@ -83,7 +83,7 @@ The signaling diagram is Figure 2 from Thomas et al. (2023), extracted without a
 
 ### Research theme order and related papers
 
-Set `weight` in each research page to control both its homepage order and theme number: plant traits (1), chemical defenses (2), fungal ecophysiology and quantitative genetics (3). Each theme's `related_publications` list contains a publication `page` path and a short `relevance` explanation. The shared template pulls the title, authors, DOI, available downloads, and preprint status from the publication itself. One paper may appear under multiple themes. The fungal ecophysiology and quantitative genetics theme links related methods and a broader review; phylogenomics provides the framework for comparing genetic–trait relationships across lineages.
+Set `weight` in each research page to control both its homepage order and theme number: macroevolution of plant chemodiversity (1), plant ecophysiology and chemical diversity (2), chemical defenses (3), and fungal ecophysiology and quantitative genetics (4). Each theme's `related_publications` list contains a publication `page` path and a short `relevance` explanation. The shared template pulls the title, authors, DOI, available downloads, and preprint status from the publication itself. One paper may appear under multiple themes. The fungal ecophysiology and quantitative genetics theme links related methods and a broader review; phylogenomics provides the framework for comparing genetic–trait relationships across lineages.
 
 ## Lab photo archive and retrospective news
 

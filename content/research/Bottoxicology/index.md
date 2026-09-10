@@ -12,7 +12,7 @@ related_publications:
     relevance: "Examines constraints on the diversity of plant volatile chemistry."
   - page: "/publication/parasitoid-phytochemistry-2022"
     relevance: "Offers a related example of how plant chemistry can influence host selection in insect parasitoids."
-weight: 2
+weight: 3
 short_title: "Chemical defenses & pathogens"
 summary: "We study how genetic variation helps fungal pathogens navigate the diverse chemical defenses of their plant hosts."
 title: "The Phytochemical Landscape and Pathogen Evolutionary Ecology"

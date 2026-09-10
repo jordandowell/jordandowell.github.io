@@ -29,3 +29,9 @@
 /* Keep the illustrated banner intact so its labels and original signature remain visible. */
 .plant-communication-art{width:100%;max-width:1054px;margin:0 auto 44px}.plant-communication-art>a{display:block}.plant-communication-art img{display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain;border-radius:5px}.plant-communication-art figcaption{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px 20px;margin-top:12px;font-size:.85rem;color:var(--muted)}.hero .plant-communication-art{margin-bottom:0}.hero .plant-communication-art figcaption{color:#e3ece6}.hero .plant-communication-art a:hover{color:var(--gold)}
 @media(max-width:600px){.plant-communication-art{margin-bottom:30px}.plant-communication-art figcaption{font-size:.8rem}}
+
+/* Four research themes form a balanced two-by-two overview. */
+.research-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:600px){.research-grid{grid-template-columns:1fr}}
+
+.brand{position:relative;padding-left:60px;min-height:48px}.brand .brand-icon{position:absolute;left:0;top:50%;transform:translateY(-50%);width:48px;height:48px;object-fit:contain}

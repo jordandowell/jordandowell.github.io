@@ -4,7 +4,7 @@ related_publications:
     relevance: "Provides tools for quantifying fungal growth and network morphology, helping connect genetic variation with measurable pathogen traits."
   - page: "/publication/journal-articlecopy1"
     relevance: "Provides broader context on chemical signaling in plant–microbe interactions."
-weight: 3
+weight: 4
 short_title: "Fungal ecophysiology & quantitative genetics"
 summary: "We link genetic diversity to pathogen traits across scales, combining fungal ecophysiology, quantitative genetics, and phylogenomics."
 title: "Fungal Ecophysiology & Quantitative Genetics"
