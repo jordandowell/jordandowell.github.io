@@ -100,3 +100,7 @@ Two user-supplied photos of Lori Pradhan’s Fungal Genetics 2026 talk appear in
 Four additional user-supplied Botany 2025 presentation photos appear in the Palm Springs news story and the Lab life album. Captions describe visible scientific topics without inferring new results.
 
 The March 5, 2025 GC–MS installation story uses the installation date, Agilent/GERSTEL configuration, and photograph provided directly by Jordan.
+
+### Lab logo
+
+`assets/media/icon.png` is Lori Pradhan’s Version 3 lab logo, shared July 28, 2025. Empty margins were trimmed for the header, footer, and browser icons; the artwork is unchanged.

@@ -77,6 +77,28 @@
 .research-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:600px){.research-grid{grid-template-columns:1fr}}
 
-.brand{position:relative;padding-left:60px;min-height:48px}.brand .brand-icon{position:absolute;left:0;top:50%;transform:translateY(-50%);width:48px;height:48px;object-fit:contain}
+.brand{display:inline-flex;flex-direction:column;justify-content:center;position:relative;padding-left:112px;min-height:96px}.brand .brand-icon{position:absolute;left:0;top:50%;transform:translateY(-50%);width:96px;height:96px;object-fit:contain}
 
 .institution a:hover{color:var(--gold)}
+
+/* Give the lab logo room beside the contact name. */
+.contact-identity{display:grid;grid-template-columns:128px minmax(0,1fr);align-items:center;gap:24px;margin-bottom:28px}.contact-logo{width:128px;height:128px;object-fit:contain}.contact-identity .eyebrow{margin-bottom:10px}.contact-identity h2{margin-bottom:0;font-size:2rem}
+@media(min-width:601px) and (max-width:1000px){.contact-grid{grid-template-columns:1fr}}
+@media(max-width:600px){.contact-identity{grid-template-columns:100px minmax(0,1fr);gap:18px}.contact-logo{width:100px;height:100px}.contact-identity h2{font-size:1.8rem}}
+@media(max-width:360px){.contact-identity{grid-template-columns:80px minmax(0,1fr);gap:14px}.contact-logo{width:80px;height:80px}}
+
+/* Larger lab marks, with room for navigation at narrower widths. */
+.nav-row{min-height:132px}
+@media(max-width:1200px){.site-header .brand{padding-left:88px;min-height:76px}.site-header .brand .brand-icon{width:76px;height:76px}}
+@media(max-width:600px){.brand{padding-left:92px;min-height:80px}.brand .brand-icon{width:80px;height:80px}.site-header .brand{font-size:1.7rem}.site-header .brand span{font-size:.65rem}.nav-row{gap:16px}}
+@media(max-width:360px){.site-header .brand{padding-left:76px;min-height:64px;font-size:1.5rem}.site-header .brand .brand-icon{width:64px;height:64px}.site-header .brand span{font-size:.6rem}.menu-toggle{padding:9px 12px}}
+
+/* Mouse-only logo magnification without moving surrounding content. */
+@media(hover:hover) and (pointer:fine){
+  .brand .brand-icon,.contact-logo{transition:scale .2s ease;transform-origin:left center}
+  .brand:has(.brand-icon:hover){z-index:20}
+  .brand .brand-icon:hover,.contact-logo:hover{position:relative;z-index:20;scale:3}
+  .brand .brand-icon:hover{position:absolute;top:0;transform:none;transform-origin:left top}
+  footer .brand .brand-icon:hover{top:auto;bottom:0;transform-origin:left bottom}
+}
+@media(prefers-reduced-motion:reduce){.brand .brand-icon,.contact-logo{transition:none}}
