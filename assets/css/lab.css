@@ -102,3 +102,8 @@
   footer .brand .brand-icon:hover{top:auto;bottom:0;transform-origin:left bottom}
 }
 @media(prefers-reduced-motion:reduce){.brand .brand-icon,.contact-logo{transition:none}}
+.publication-spotlight{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:2rem;align-items:center;padding:2rem;margin:1.5rem 0;background:#f3f6f2;border-radius:16px}
+.publication-spotlight img{display:block;width:100%;height:auto;border-radius:8px}
+.publication-spotlight h3{font-size:1.65rem;line-height:1.2;margin:.5rem 0 1rem}
+.publication-spotlight .figure-credit{font-size:.75rem;line-height:1.5;margin-top:1.25rem}
+@media(max-width:760px){.publication-spotlight{grid-template-columns:1fr;padding:1.25rem;gap:1.25rem}}

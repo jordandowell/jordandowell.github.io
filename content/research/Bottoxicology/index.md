@@ -1,5 +1,7 @@
 ---
 related_publications:
+  - page: "/publication/linalool-resistance-2026"
+    relevance: "Links natural variation in resistance to the plant volatile linalool with candidate genes in Botrytis cinerea."
   - page: "/publication/journal-articlecopy1"
     relevance: "Reviews chemical signaling among plants, insects, and microbes, including pathogen interactions."
   - page: "/publication/cornus-chemical-defense-2020"

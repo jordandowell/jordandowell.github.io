@@ -1,5 +1,7 @@
 ---
 related_publications:
+  - page: "/publication/linalool-resistance-2026"
+    relevance: "Combines physiological and structural phenotyping with genome-wide association to connect genetic diversity to fungal responses to linalool."
   - page: "/publication/hyphy-fungal-networks-2025"
     relevance: "Provides tools for quantifying fungal growth and network morphology, helping connect genetic variation with measurable pathogen traits."
   - page: "/publication/journal-articlecopy1"
