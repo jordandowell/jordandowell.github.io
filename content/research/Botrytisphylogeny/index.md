@@ -1,5 +1,7 @@
 ---
 related_publications:
+  - page: "/publication/botrytis-codon-demand-2026"
+    relevance: "Examines how infection-associated gene expression reshapes fungal codon demand across host systems; currently a preprint."
   - page: "/publication/linalool-resistance-2026"
     relevance: "Combines physiological and structural phenotyping with genome-wide association to connect genetic diversity to fungal responses to linalool."
   - page: "/publication/hyphy-fungal-networks-2025"
