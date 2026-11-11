@@ -74,3 +74,8 @@ user_groups:
 ---
 
 Dr. Jordan Dowell studies the evolutionary ecology of plant-plant chemical communication and the impacts of multifunctional traits on biotic interactions from single-cells to landscapes using various techniques, from metabolomic and genomic approaches to remote sensing and field-based studies.
+
+## Talks & conversations
+
+- [Plants Communicating Through Chemistry](/post/2025-05-19-botanical-podcast/) — a conversation with Shiran Ben Zeev on the Botanical Society of America’s *A Botanical Podcast*.
+- [Can our plants feed the world?](/post/2022-08-15-garden-talk/) — a short One Garden video introducing Jordan’s research and perspectives.

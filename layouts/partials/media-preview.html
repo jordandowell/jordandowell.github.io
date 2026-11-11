@@ -1,0 +1,22 @@
+<section class="wrap section media-preview" id="talks-conversations" aria-labelledby="media-heading">
+  <p class="eyebrow">Beyond the papers</p>
+  <h2 id="media-heading">Talks & conversations</h2>
+  <p class="media-intro">Get to know Jordan and the questions behind our research, in conversation.</p>
+  <div class="media-grid">
+    {{ range (where site.RegularPages "Params.media_featured" true).ByDate.Reverse }}
+    {{ $page := . }}
+    <article class="media-card">
+      <a class="media-art {{ if eq .Params.appearance.kind "Podcast" }}podcast-art{{ end }}" href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">
+        {{ with resources.Get .Params.image.src }}{{ $img := .Resize "720x webp" }}<img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="" loading="lazy">{{ end }}
+      </a>
+      <div class="media-card-copy">
+        <p class="eyebrow">{{ .Params.appearance.kind }} · {{ .Params.appearance.duration }}</p>
+        <h3><a href="{{ .RelPermalink }}">{{ .Params.appearance.title }}</a></h3>
+        <p class="meta">{{ .Params.appearance.publisher }}</p>
+        <p>{{ .Params.summary }}</p>
+        <a class="text-link" href="{{ .RelPermalink }}">{{ if eq .Params.appearance.kind "Podcast" }}Listen to the episode{{ else }}Watch the video{{ end }} →</a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>

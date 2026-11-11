@@ -1,0 +1,8 @@
+{{ with .Params.appearance }}
+<section class="appearance-player" aria-label="{{ .title }}">
+  <h2>{{ if eq .kind "Podcast" }}Listen to the conversation{{ else }}Watch the conversation{{ end }}</h2>
+  <p class="meta">{{ .publisher }} · {{ .duration }}</p>
+  <iframe class="{{ if eq .kind "Video" }}video-player{{ else }}podcast-player{{ end }}" src="{{ .embed_url }}" title="{{ .title }} — {{ .publisher }}" loading="lazy" allow="encrypted-media; fullscreen; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <p class="appearance-source"><a class="text-link" href="{{ .url }}">{{ if eq .kind "Podcast" }}Listen on Buzzsprout & read the show notes{{ else }}Watch on YouTube{{ end }} ↗</a></p>
+</section>
+{{ end }}
