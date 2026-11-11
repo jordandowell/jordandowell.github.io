@@ -79,3 +79,4 @@ Dr. Jordan Dowell studies the evolutionary ecology of plant-plant chemical commu
 
 - [Plants Communicating Through Chemistry](/post/2025-05-19-botanical-podcast/) — a conversation with Shiran Ben Zeev on the Botanical Society of America’s *A Botanical Podcast*.
 - [Can our plants feed the world?](/post/2022-08-15-garden-talk/) — a short One Garden video introducing Jordan’s research and perspectives.
+- [Why are plants so important?](/post/2022-05-04-secret-life-of-plants/) — a preview of One Garden’s *Secret Life of Plants* collection, featuring Jordan.

@@ -121,3 +121,5 @@
 .video-player{aspect-ratio:16/9;height:auto}.podcast-player{height:200px}
 .appearance-source{margin-top:18px}
 @media(max-width:650px){.media-grid{grid-template-columns:1fr;gap:24px}.media-card-copy{padding:22px}}
+
+@media(min-width:1050px){.media-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
